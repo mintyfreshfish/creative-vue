@@ -50,6 +50,7 @@
     justify-content: space-evenly;
     align-items: stretch;
     align-content: space-around;
+    margin-bottom: 100px;
   }
 
   .flexchild {

@@ -6,7 +6,7 @@
       <router-link to="/letters">Letters</router-link>
     </div>
     <router-view/>
-  <div id='footer'><a href=""><h2>github</h2></a></div>
+  <div id='footer'><a href="https://github.com/mintyfreshfish/creative-vue"><h2>github</h2></a></div>
   </div>
 </template>
 
@@ -64,6 +64,7 @@ input {
   background-color: #395884;
   color: white;
   width: 100%;
+  margin-top: 500px;
 }
 
 a {
